@@ -92,10 +92,10 @@ body {
     position: relative;
 }
 .swiper-slide.one .top{
-    width:60%;
+    width:70%;
     height:10%;
     position: absolute;
-    top:1%;
+    top:2%;
     font-size:5vw;
     color: #172dff;
     font-family: cursive;
